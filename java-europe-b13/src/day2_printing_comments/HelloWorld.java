@@ -1,0 +1,21 @@
+package day2_printing_comments;
+
+public class HelloWorld{
+	
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+		System.out.println("CyberTek");
+		System.out.println("C ");
+		System.out.println(" D ");
+		
+		
+	
+		
+		
+				
+		
+		
+		
+	}
+
+}
